@@ -2,7 +2,7 @@ package groupFiles;
 
 import java.util.Scanner;
 
-public class HansMain {
+public class HansMain { // I LIKE what I see
 	static int loveLevel = 3;
 	static int frustrationLevel = 0;
 	static Scanner input;
